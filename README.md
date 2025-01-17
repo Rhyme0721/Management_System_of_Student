@@ -1,0 +1,2 @@
+# Management_System_of_Student
+基于Linux系统的简单c语言分文件实践项目
